@@ -1,7 +1,7 @@
 # Bashers
 Bash Scripts to kickstart productivity
 
-:: All commands will be compatible with CentOS and similar linux/unix distrobutions ::
+:: All commands will be compatible with CentOS and similar linux/unix distro's ::
 
 
 - Get ip map
