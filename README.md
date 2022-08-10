@@ -8,5 +8,5 @@ Bash Scripts to kickstart productivity
 - [x] Get OS data
 - [ ] Make api call and format results: curl
 - [x] Get version of Python
-- [x] Get current Directory
+- [x] Get current directory's file list
 - [ ] Return count of unique file types
